@@ -44,5 +44,5 @@ h1 {
 
 /*use the calc() function to modify variable values*/
 .second p {
-	padding: calc(2 * var(--std-padding));
+	padding: calc(3 * var(--std-padding));
 }
